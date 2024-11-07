@@ -5,9 +5,9 @@ slug: 2024-11-07-incident-1-07-11-24
 type: posts
 draft: false
 categories:
-  - default
+  - incident
 tags:
-  - default
+  - incident
 ---
 
 # Incident 
