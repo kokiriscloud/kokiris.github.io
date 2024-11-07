@@ -11,15 +11,14 @@ tags:
 ---
 
 # Incident 
-> status : en cours
->
-> > heure de début : voir titre
-> >
-> > heure de fin : - 
->
->  gravité : faible
->
-> périmètre : réseau
+
+## Status
+
+* status : en cours
+* heure de début : voir titre
+* heure de fin : - 
+* gravité : faible
+* périmètre : réseau
 
 ## Test
 
