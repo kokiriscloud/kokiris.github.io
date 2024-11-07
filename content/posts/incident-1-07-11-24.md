@@ -12,14 +12,12 @@ tags:
 
 # Incident 
 
-## Status
-
 * status : en cours
 * heure de début : voir titre
 * heure de fin : - 
 * gravité : faible
 * périmètre : réseau
 
-## Test
+## Détails
 
 Contenu de test
