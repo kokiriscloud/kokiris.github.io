@@ -1,0 +1,3 @@
+baseURL = 'https://status.kokiris.net/'
+languageCode = 'en-us'
+title = 'Kokiris status page and incident'
