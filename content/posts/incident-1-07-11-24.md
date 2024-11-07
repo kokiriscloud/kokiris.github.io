@@ -11,6 +11,10 @@ tags:
 ---
 
 # Incident 
+* status : en cours
+* gravité : faible
+* périmètre : réseau
+* heure de fin : - 
 
 ## Test
 
