@@ -146,7 +146,6 @@ params:
     - name: France
       description: The main servers are located here.
       closed: true
-    - name: Empty Category
     - name: Uncategorized
       untitled: true
 
@@ -172,28 +171,28 @@ params:
     #- name: Media Proxy
     #  description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
     #  category: Uncategorized
-    - name: KCH
-      description: Kokiris Cloud
+    - name: KCH (Hébergement Cloud Kokiris)
+      description: Hébergement Cloud Kokiris
       category: France
-    - name: KCL
+    - name: KCL (infogérance)
       description: Kokiris infogérance
       category: France
-    - name: KPC
+    - name: KPC (Cloud privé Kokiris)
       description: Kokiris Private Cloud 
       category: France
-    - name: KPM
+    - name: KPM (Infogérance Plesk Kokiris)
       description: Kokiris Plesk Managment
       category: France
-    - name: KCC
+    - name: KCC (Orchestration de conteneurs Kokiris)
       description: Kokiris Cloud Container
       category: France
     - name: Kokiris documentation
       description: Kokiris documentation
       category: France
-    - name: Kokigraf
+    - name: Kokigraf (Supervision orientée performance)
       description: Customer performance graf
       category: France
-    - name: Kokiperf
+    - name: Kokiperf (Surveillance site web)
       description: Kokiris web status
       category: France
 
