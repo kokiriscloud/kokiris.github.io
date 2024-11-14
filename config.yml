@@ -182,7 +182,9 @@ params:
     #  category: Uncategorized
     - name: KCH (Hébergement Cloud Kokiris)
       description: Hébergement Cloud Kokiris
-      category: France
+      category: 
+        - OVH Roubaix France 
+        - OVH Gravelines France 
     - name: KCL (infogérance)
       description: Kokiris infogérance
       category: France
