@@ -4,7 +4,7 @@ date: 2024-11-14 10:35:00
 informational: true
 pin: false
 section: issue
-resolved: false
+resolved: true
 severity: disrupted
 affected:
   - KCH
