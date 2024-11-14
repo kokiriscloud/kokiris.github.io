@@ -21,7 +21,7 @@ severity :
 ## Nouvelle incident
 
 ${TITLE}
-${DATESTART} format "2024-11-14 10:35:00"
+${DATESTART} format "2024-11-14 10:35:00" date  +"%Y-%m-%d %H:%M"
 ${SEVERITY} down or disrupted or notice
 ${AFFECTED}
 
