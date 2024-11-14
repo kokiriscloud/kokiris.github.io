@@ -1,5 +1,27 @@
 https://github.com/cstate/cstate?tab=readme-ov-file#getting-started-
 
+# 
+
+## Méta-données possible:
+
+title: New Pipeline Rollout
+date: 2019-10-05 16:24:00 
+resolved: true
+resolvedWhen: 2019-10-05 16:58:00 # date de résolution
+severity: disrupted
+affected: liste liée à la liste « systems »
+
+## Détails de méta-données
+
+severity :
+* down
+* disrupted
+* notice
+
+
+
+
+
 # cState Site v5.0
 
 This is the default cState status page website directory/folder.
