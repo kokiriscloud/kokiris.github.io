@@ -143,7 +143,16 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: France
+    - name: OVH Roubaix France
+      description: The main servers are located here.
+      closed: true
+    - name: OVH Gravelines France
+      description: The main servers are located here.
+      closed: true
+    - name: OVH Strasbourg France
+      description: The main servers are located here.
+      closed: true
+    - name: OVH Limburg Allemagne
       description: The main servers are located here.
       closed: true
     - name: Uncategorized
