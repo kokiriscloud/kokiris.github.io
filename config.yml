@@ -180,10 +180,13 @@ params:
     #- name: Media Proxy
     #  description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
     #  category: Uncategorized
-    - name: KCH (Hébergement Cloud Kokiris)
+    - name: KCH (Hébergement Cloud Kokiris) Roubaix
       description: Hébergement Cloud Kokiris
       category: 
         - OVH Roubaix France 
+    - name: KCH (Hébergement Cloud Kokiris) Gravelines
+      description: Hébergement Cloud Kokiris
+      category: 
         - OVH Gravelines France 
     - name: KCL (infogérance)
       description: Kokiris infogérance

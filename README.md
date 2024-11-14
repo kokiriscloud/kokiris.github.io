@@ -1,3 +1,5 @@
+https://github.com/cstate/cstate?tab=readme-ov-file#getting-started-
+
 # cState Site v5.0
 
 This is the default cState status page website directory/folder.
@@ -31,3 +33,5 @@ Then push `git add -A; git commit -m "Update cState vX.X.X"; git push origin mas
 ## License
 
 MIT © Mantas Vilčinskas
+
+
