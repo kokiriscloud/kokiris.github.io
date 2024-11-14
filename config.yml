@@ -143,7 +143,7 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: kokiris Global France 
+    - name: Kokiris Global France 
       description: Localisation 
       closed: true
     - name: Kokiris Roubaix France
@@ -155,7 +155,7 @@ params:
     - name: Kokiris Strasbourg France
       description: Hébergement Kokiris sur Strasbourg
       closed: true
-    - name: kokiris Limburg Allemagne
+    - name: Kokiris Limburg Allemagne
       description: Hébergement Kokiris sur Limburg
       closed: true
     - name: Uncategorized
@@ -188,31 +188,31 @@ params:
       category: Kokiris Roubaix France 
     - name: KCH (Hébergement Cloud Kokiris) Gravelines
       #description: Hébergement Cloud Kokiris
-      category: kokiris Gravelines France 
+      category: Kokiris Gravelines France
     - name: KCB S3 Strasbourg
       #description: Hébergement Cloud Kokiris
-      category: kokiris Strasbourg France 
+      category: Kokiris Strasbourg France
     - name: KCL (infogérance) 
       description: Kokiris infogérance
-      category:  kokiris Global France
+      category:  Kokiris Global France
     - name: KPC (Cloud privé Kokiris)
       description: Kokiris Private Cloud 
-      category:  kokiris Global France
+      category:  Kokiris Global France
     - name: KPM (Infogérance Plesk Kokiris)
       description: Kokiris Plesk Managment
-      category:  kokiris Global France
+      category:  Kokiris Global France
     - name: KCC (Orchestration de conteneurs Kokiris)
       description: Kokiris Cloud Container
-      category:  kokiris Global France
+      category:  Kokiris Global France
     - name: Kokiris documentation
       description: Kokiris documentation
-      category:  kokiris Global France
+      category:  Kokiris Global France
     - name: Kokigraf (Supervision orientée performance)
       description: Customer performance graf
-      category:  kokiris Global France
+      category:  Kokiris Global France
     - name: Kokiperf (Surveillance site web)
       description: Kokiris web status
-      category:  kokiris Global France
+      category:  Kokiris Global France
 
   # What date format to use?
   #
