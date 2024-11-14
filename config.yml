@@ -261,7 +261,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  skipSeconds: false
+  skipSeconds: true
 
   # Should there be an automatic "Last updated"
   # text shown below issues?
@@ -274,7 +274,7 @@ params:
   #
   # Default: `true`
   # BOOLEAN; `true`, `false`
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
 
   # Should incident history be separated
   # like in an archive view?
@@ -295,7 +295,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  disableIncidentHistory: false
+  disableIncidentHistory: true
 
   # Disable dark mode
   #
@@ -333,7 +333,8 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  #description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: Nous surveillons en continu l'état de nos services et s'il y a des interruptions, une note sera publiée ici..
 
   # Tabs on homepage
   # Uncomment to enable.
