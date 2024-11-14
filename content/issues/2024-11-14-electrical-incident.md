@@ -8,7 +8,7 @@ section: issue
 resolved: true
 severity: disrupted
 affected:
-  - KCH
+  - KCH (Hébergement Cloud Kokiris) Roubaix
 ---
 
 Incident electrique GRA3
