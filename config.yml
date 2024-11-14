@@ -144,19 +144,19 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
     - name: kokiris Global France 
-      description: The main servers are located here.
+      description: Localisation 
       closed: true
     - name: Kokiris Roubaix France
-      description: The main servers are located here.
+      description: Hébergement Kokiris sur Roubaix
       closed: true
     - name: Kokiris Gravelines France
-      description: The main servers are located here.
+      description: Hébergement Kokiris sur Gravelines
       closed: true
     - name: Kokiris Strasbourg France
-      description: The main servers are located here.
+      description: Hébergement Kokiris sur Strasbourg
       closed: true
     - name: kokiris Limburg Allemagne
-      description: The main servers are located here.
+      description: Hébergement Kokiris sur Limburg
       closed: true
     - name: Uncategorized
       untitled: true
@@ -189,6 +189,9 @@ params:
     - name: KCH (Hébergement Cloud Kokiris) Gravelines
       #description: Hébergement Cloud Kokiris
       category: kokiris Gravelines France 
+    - name: KCB S3 Strasbourg
+      #description: Hébergement Cloud Kokiris
+      category: kokiris Strasbourg France 
     - name: KCL (infogérance) 
       description: Kokiris infogérance
       category:  kokiris Global France
