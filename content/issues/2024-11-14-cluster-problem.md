@@ -5,9 +5,11 @@ informational: true
 pin: false
 section: issue
 resolved: false
-severity: down
+severity: disrupted
 affected:
   - KCH (Hébergement Cloud Kokiris) Roubaix
 ---
 
 Cluster problem
+
+clients impactés
