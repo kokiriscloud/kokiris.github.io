@@ -143,16 +143,19 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: OVH Roubaix France
+    - name: kokiris Global France 
       description: The main servers are located here.
       closed: true
-    - name: OVH Gravelines France
+    - name: Kokiris Roubaix France
       description: The main servers are located here.
       closed: true
-    - name: OVH Strasbourg France
+    - name: Kokiris Gravelines France
       description: The main servers are located here.
       closed: true
-    - name: OVH Limburg Allemagne
+    - name: Kokiris Strasbourg France
+      description: The main servers are located here.
+      closed: true
+    - name: kokiris Limburg Allemagne
       description: The main servers are located here.
       closed: true
     - name: Uncategorized
@@ -182,31 +185,31 @@ params:
     #  category: Uncategorized
     - name: KCH (Hébergement Cloud Kokiris) Roubaix
       #description: Hébergement Cloud Kokiris
-      category: OVH Roubaix France 
+      category: Kokiris Roubaix France 
     - name: KCH (Hébergement Cloud Kokiris) Gravelines
       #description: Hébergement Cloud Kokiris
-      category: OVH Gravelines France 
-    - name: KCL (infogérance)
+      category: kokiris Gravelines France 
+    - name: KCL (infogérance) 
       description: Kokiris infogérance
-      category: France
+      category:  kokiris Global France
     - name: KPC (Cloud privé Kokiris)
       description: Kokiris Private Cloud 
-      category: France
+      category:  kokiris Global France
     - name: KPM (Infogérance Plesk Kokiris)
       description: Kokiris Plesk Managment
-      category: France
+      category:  kokiris Global France
     - name: KCC (Orchestration de conteneurs Kokiris)
       description: Kokiris Cloud Container
-      category: France
+      category:  kokiris Global France
     - name: Kokiris documentation
       description: Kokiris documentation
-      category: France
+      category:  kokiris Global France
     - name: Kokigraf (Supervision orientée performance)
       description: Customer performance graf
-      category: France
+      category:  kokiris Global France
     - name: Kokiperf (Surveillance site web)
       description: Kokiris web status
-      category: France
+      category:  kokiris Global France
 
   # What date format to use?
   #
