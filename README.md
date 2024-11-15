@@ -1,5 +1,11 @@
+# KSP (Kokiris Status Page) 
+
 https://github.com/cstate/cstate?tab=readme-ov-file#getting-started-
 https://github.com/cstate/cstate/wiki/Customization
+
+La page de status est hébergée sur github afin d'être indépendante d'OVH Cloud.
+
+Github action ainsi que des scripts sont utilisés pour en faciliter la construction et le déploiement.
 
 ## Lexique
 
@@ -47,7 +53,10 @@ Création de l'issue
 bash issue.sh Hosting-problem
 ```
 
-Le script vous donne le chemin vers le fichier pour editer le nouvelle incident
+Le script vous donne le chemin vers le fichier pour editer le nouvelle incident pour :
+* améliorer le titre dans le méta-data `title`
+* éventuellement ajouter un nouveau système à la méta-data : `affected`
+* décrire l'incident et son impact
 
 Après édition, commiter les changement afin de lancer le build et la publication sur Github :
 
@@ -56,6 +65,11 @@ git add .
 git commit -m "incident"
 git push
 ```
+
+Surveiller son bon déploiement sur le Github action https://github.com/kokiriscloud/kokiris.github.io/actions/workflows/hugo.yml
+
+Surveiller sa bonne publication sur https://status.kokiris.net/
+
 
 ## Mise-à-jour de l'incident
 
