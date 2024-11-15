@@ -7,8 +7,8 @@ section: issue
 resolved: false
 severity: down
 affected:
-  - AFFECTED=KCH (Hébergement Cloud Kokiris) Gravelines 
-  - AFFECTED=KCH (Hébergement Cloud Kokiris) Roubaix
+  - KCH (Hébergement Cloud Kokiris) Gravelines 
+  - KCH (Hébergement Cloud Kokiris) Roubaix
 ---
 
 Problème secondaire
