@@ -37,7 +37,7 @@ Github action ainsi que des scripts sont utilisés pour en faciliter la construc
 
 ## Création de l'incident
 
-Exporter la sévérité 
+### Exporter la sévérité 
 
 Exemple :
 
@@ -45,13 +45,13 @@ Exemple :
 export SEVERITY=disrupted
 ```
 
-Exporter le premier système impacté
+### Exporter le premier système impacté
 
 ```bash
 export AFFECTED='KCH (Hébergement Cloud Kokiris) Roubaix'
 ```
 
-Création de l'issue
+### Création de l'issue
 
 ```bash
 bash issue.sh Hosting-problem
@@ -59,12 +59,12 @@ bash issue.sh Hosting-problem
 
 Le script se termine en affichant le chemin vers le nouveau fichier.
 
-Editer le nouveau fichier d'incident pour :
+### Editer le nouveau fichier d'incident pour :
 * améliorer le titre dans le méta-data `title`
 * éventuellement ajouter un nouveau système à la méta-data : `affected`
 * décrire l'incident et son impact
 
-Après édition, commiter les changement afin de lancer le build et la publication sur Github :
+### Après édition, commiter les changement afin de lancer le build et la publication sur Github :
 
 ```bash
 git add .
@@ -72,9 +72,9 @@ git commit -m "incident"
 git push
 ```
 
-Surveiller son bon déploiement sur le Github action https://github.com/kokiriscloud/kokiris.github.io/actions/workflows/hugo.yml
+### Surveiller son bon déploiement sur le Github action https://github.com/kokiriscloud/kokiris.github.io/actions/workflows/hugo.yml
 
-Et enfin, surveiller sa bonne publication sur https://status.kokiris.net/
+### surveiller sa bonne publication sur https://status.kokiris.net/
 
 ## Mise-à-jour de l'incident
 
