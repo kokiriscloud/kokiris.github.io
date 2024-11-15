@@ -1,15 +1,11 @@
 ---
 title: ${TITLE}
-date: 2024-11-14 10:35:00
-#resolvedWhen: 2024-11-14 11:58:00
+date: ${DATESTART}:00
 informational: true
 pin: false
 section: issue
 resolved: false
-severity: disrupted
+severity: ${SEVERITY}
 affected:
-  - KCH (Hébergement Cloud Kokiris) Roubaix
+  - ${AFFECTED} 
 ---
-
-Incident electrique GRA3
-
