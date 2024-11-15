@@ -72,9 +72,15 @@ git commit -m "incident"
 git push
 ```
 
-### Surveiller son bon déploiement sur le Github action https://github.com/kokiriscloud/kokiris.github.io/actions/workflows/hugo.yml
+### Surveiller son bon déploiement sur Github action 
 
-### surveiller sa bonne publication sur https://status.kokiris.net/
+En allant sur https://github.com/kokiriscloud/kokiris.github.io/actions/workflows/hugo.yml
+
+Attention, il faut avoir un compte github autorisé pour y accéder.
+
+### surveiller sa bonne publication 
+
+En allant sur https://status.kokiris.net/
 
 ## Mise-à-jour de l'incident
 
