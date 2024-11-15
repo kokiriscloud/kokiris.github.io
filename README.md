@@ -1,5 +1,7 @@
 # KSP (Kokiris Status Page) 
 
+Le projet https://github.com/kokiriscloud/kokiris.github.io
+
 https://github.com/cstate/cstate?tab=readme-ov-file#getting-started-
 https://github.com/cstate/cstate/wiki/Customization
 
