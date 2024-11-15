@@ -5,9 +5,10 @@ informational: true
 pin: false
 section: issue
 resolved: false
-severity: notice
+severity: down
 affected:
   - AFFECTED=KCH (Hébergement Cloud Kokiris) Gravelines 
+  - AFFECTED=KCH (Hébergement Cloud Kokiris) Roubaix
 ---
 
 Problème secondaire
