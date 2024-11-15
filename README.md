@@ -45,6 +45,12 @@ ls -lart content/issues/
 
 # Utilisation
 
+## Récupération du site en local
+
+```bash
+git clone git@github.com:kokiriscloud/kokiris.github.io.git
+```
+
 ## Création de l'incident
 
 ### Exporter la sévérité 
