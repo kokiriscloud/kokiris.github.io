@@ -2,6 +2,8 @@
 
 Le projet https://github.com/kokiriscloud/kokiris.github.io
 
+Une page avec des crédentials est présente sur notre wiki.
+
 La page de status est hébergée sur github afin d'être indépendante d'OVH Cloud.
 
 Github action ainsi que des scripts sont utilisés pour en faciliter la construction et le déploiement.
