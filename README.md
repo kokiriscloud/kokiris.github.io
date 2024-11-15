@@ -57,7 +57,9 @@ Création de l'issue
 bash issue.sh Hosting-problem
 ```
 
-Le script vous donne le chemin vers le fichier pour editer le nouvelle incident pour :
+Le script se termine en affichant le chemin vers le nouveau fichier.
+
+Editer le nouveau fichier d'incident pour :
 * améliorer le titre dans le méta-data `title`
 * éventuellement ajouter un nouveau système à la méta-data : `affected`
 * décrire l'incident et son impact
