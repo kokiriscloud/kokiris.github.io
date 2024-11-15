@@ -1,4 +1,4 @@
-# KSP (Kokiris Status Page) 
+# KSP (Kokiris Status Page)
 
 Le projet https://github.com/kokiriscloud/kokiris.github.io
 
@@ -37,7 +37,7 @@ Github action ainsi que des scripts sont utilisés pour en faciliter la construc
 
 ## Où sont stockés les incidents (issue) 
 
-Lister les incidents par date de modification
+Lister les incidents par date de modification.
 
 ```bash
 ls -lart content/issues/
