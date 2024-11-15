@@ -1,6 +1,7 @@
 https://github.com/cstate/cstate?tab=readme-ov-file#getting-started-
+https://github.com/cstate/cstate/wiki/Customization
 
-# 
+# Configuration
 
 ## Méta-données possible:
 

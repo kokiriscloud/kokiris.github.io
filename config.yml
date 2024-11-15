@@ -145,10 +145,10 @@ params:
   categories:
     - name: Kokiris Global France 
       description: Localisation 
-      closed: true
+      closed: false
     - name: Kokiris Roubaix France
       description: Hébergement Kokiris sur Roubaix
-      closed: true
+      closed: false
     - name: Kokiris Gravelines France
       description: Hébergement Kokiris sur Gravelines
       closed: true
@@ -420,6 +420,8 @@ params:
   #
   # Default: UA-00000000-1
   googleAnalytics: UA-00000000-1
+
+  autoRefresh: true  
 
 # These options affect the core of cState.
 # Please do not change them if you do not
