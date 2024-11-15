@@ -35,6 +35,14 @@ Github action ainsi que des scripts sont utilisés pour en faciliter la construc
  *  Kokigraf (Supervision orientée performance)
  *  Kokiperf (Surveillance site web)
 
+## Où sont stockés les incidents (issue) 
+
+Lister les incidents par date de modification
+
+```bash
+ls -lart content/issues/
+```
+
 # Utilisation
 
 ## Création de l'incident
