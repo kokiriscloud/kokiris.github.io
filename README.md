@@ -1,6 +1,72 @@
 https://github.com/cstate/cstate?tab=readme-ov-file#getting-started-
 https://github.com/cstate/cstate/wiki/Customization
 
+## Lexique
+
+* system : le système qui est impacté, ` KCH (Hébergement Cloud Kokiris) Roubaix̀` par exemple
+* severity : la sévérité, `down`, `disrupted` ou ̀`noticè`
+* date : Date et heure de début d'incident avec ce format `ANNEE-MOIS-JOUR HEURE:MINUTE:SECONDE`
+* resolvedWhen : Date et heure de résolution avec ce format `ANNEE-MOIS-JOUR HEURE:MINUTE:SECONDE`
+* resolved : `true` l'incident est résolu, ̀`false` l'incident cours toujours
+* affected : une liste `yaml` des système affectés
+
+## Systèmes actuels
+
+ *  KCH (Hébergement Cloud Kokiris) Roubaix
+ *  KCH (Hébergement Cloud Kokiris) Gravelines
+ *  KCB S3 Strasbourg
+ *  KCL (infogérance)
+ *  KPC (Cloud privé Kokiris)
+ *  KPM (Infogérance Plesk Kokiris)
+ *  KCC (Orchestration de conteneurs Kokiris)
+ *  Kokiris documentation
+ *  Kokigraf (Supervision orientée performance)
+ *  Kokiperf (Surveillance site web)
+
+# Utilisation
+
+## Création de l'incident
+
+Exporter la sévérité 
+
+exemple :
+
+```bash
+export SEVERITY=disrupted
+```
+
+Exporter le premier système impacté
+
+```bash
+export AFFECTED='KCH (Hébergement Cloud Kokiris) Roubaix'
+```
+
+Création de l'issue
+
+```bash
+bash issue.sh Hosting-problem
+```
+
+Le script vous donne le chemin vers le fichier pour editer le nouvelle incident
+
+Après édition, commiter les changement afin de lancer le build et la publication sur Github :
+
+```bash
+git add .
+git commit -m "incident"
+git push
+```
+
+## Mise-à-jour de l'incident
+
+Editez l'incident puis commiter le changement
+
+## Fermeture de l'incident 
+
+Editez les méta-data de l'incident, passer `resolved` à `true`, ajouter la méta-data `resolvedWhen` avec pour valeur le résultat de la commande `date  +"%Y-%m-%d %H:%M":%S`
+
+Puis commiter les modifications, l'incident sera clos côté `CStatè`.
+
 # Configuration
 
 ## Méta-données possible:
