@@ -5,7 +5,7 @@ resolvedWhen: 2024-11-15 07:58:00
 informational: true
 pin: false
 section: issue
-resolved: false
+resolved: true
 severity: disrupted
 affected:
   - KCH (Hébergement Cloud Kokiris) Roubaix
