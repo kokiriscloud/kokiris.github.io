@@ -90,4 +90,4 @@ Editez l'incident puis commiter le changement
 
 Editez les méta-data de l'incident, passer `resolved` à `true`, ajouter la méta-data `resolvedWhen` avec pour valeur le résultat de la commande `date  +"%Y-%m-%d %H:%M":%S`
 
-Puis commiter les modifications, l'incident sera clos côté `CStatè`.
+Puis commiter les modifications, l'incident sera clos côté `CState`.
