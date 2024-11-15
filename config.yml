@@ -144,11 +144,11 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
     - name: Kokiris Global France 
-      description: Localisation 
-      closed: false
+      description: Infra globale
+      closed: true
     - name: Kokiris Roubaix France
       description: Hébergement Kokiris sur Roubaix
-      closed: false
+      closed: true
     - name: Kokiris Gravelines France
       description: Hébergement Kokiris sur Gravelines
       closed: true
@@ -184,10 +184,10 @@ params:
     #  description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
     #  category: Uncategorized
     - name: KCH (Hébergement Cloud Kokiris) Roubaix
-      #description: Hébergement Cloud Kokiris
+      description: Hébergement Cloud Kokiris
       category: Kokiris Roubaix France 
     - name: KCH (Hébergement Cloud Kokiris) Gravelines
-      #description: Hébergement Cloud Kokiris
+      description: Hébergement Cloud Kokiris
       category: Kokiris Gravelines France
     - name: KCB S3 Strasbourg
       #description: Hébergement Cloud Kokiris
