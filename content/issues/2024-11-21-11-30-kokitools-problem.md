@@ -4,7 +4,8 @@ date: 2024-11-21 11:30:00
 informational: true
 pin: false
 section: issue
-resolved: false
+resolved: true
+resolvedWhen: 2024-11-21 12:04:59
 severity: disrupted
 affected:
   - Kokiris documentation 
