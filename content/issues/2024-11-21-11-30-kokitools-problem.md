@@ -11,6 +11,6 @@ affected:
   - Kokigraf (Supervision orientée performance)
 ---
 
-L'accès au graf et aux kokitools tel que (pw|up|paste).kokiris.cloud est fortement dégradé.
+L'accès aux graf, kuma et aux kokitools tel que (pw|up|paste).kokiris.cloud est fortement dégradé.
 
 Une analyse est en cours.
