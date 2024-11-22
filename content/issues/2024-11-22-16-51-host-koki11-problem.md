@@ -4,11 +4,16 @@ date: 2024-11-22 16:48:00
 informational: true
 pin: false
 section: issue
-resolved: false
+resolved: true
+resolvedWhen: 2024-11-22 21:20:00
 severity: disrupted
 affected:
   - KCH (Hébergement Cloud Kokiris) Roubaix 
 ---
+(MàJ/Update) 21h25 :
+
+L'hyperviseur a redémarré.
+Par précaution, les serveurs clients sont migrés sur d'autres hyperviseur.
 
 (MàJ/Update) 18h21 :
 
