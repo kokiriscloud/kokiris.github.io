@@ -12,16 +12,17 @@ affected:
 ---
 (MàJ/Update) 21h25 :
 
-L'hyperviseur a redémarré.
-Par précaution, les serveurs clients sont migrés sur d'autres hyperviseur.
+* OVH a fini son intervention technique.
+* L'hyperviseur a redémarré.
+* Par précaution, les serveurs clients sont migrés sur d'autres hyperviseurs.
 
 (MàJ/Update) 18h21 :
 
-Les techniciens OVH sont toujours en intervention, nous vous préviendrons dès que OVH nous communiquera de nouveaux éléments.
+* Les techniciens OVH sont toujours en intervention, nous vous préviendrons dès que OVH nous communiquera de nouveaux éléments.
 
 ---
 
-Suite à problème electrique côté OVH, l'hyperviseur koki11 a du être redémarré.
+* Suite à problème éléctrique côté OVH, l'hyperviseur **koki11** a du être redémarré.
 
-Impact, des serveurs clients ont subi un arrêt momentané.  
+Impact :  des serveurs clients ont subi une courte interruption.  
 
