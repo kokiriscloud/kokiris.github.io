@@ -5,10 +5,12 @@ informational: true
 pin: false
 section: issue
 resolved: false
-severity: disrupted
+severity: down
 affected:
-  - KCH (Hébergement Cloud Kokiris) ALL 
+  - ALL 
 ---
 
 Un incident réseau impacte l'ensemble des infrastructures OVH France.
 A network incident affects all OVH France infrastructures.
+
+Plus d'infos : https://network.status-ovhcloud.com/incidents/myfn82jp00k5
