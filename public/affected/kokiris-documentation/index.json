@@ -1,0 +1,55 @@
+{
+  "is": "system",
+  "title": "Kokiris Documentation",
+  "permalink": "http://localhost:1313/affected/kokiris-documentation/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "kokitools-and-kokigraf-problem",
+        "createdAt": "2025-03-17 11:00:00 +0000 UTC",
+        "lastMod": "2025-03-17 11:00:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2025-03-17-11-00-kokitools-problem/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2025-03-17 11:31:05",
+        "affected": ["Kokiris documentation", "Kokigraf (Supervision orientée performance)", "Kokitools"],
+        "filename": "2025-03-17-11-00-kokitools-problem.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "kokinode-problem",
+        "createdAt": "2024-11-30 12:33:00 +0000 UTC",
+        "lastMod": "2024-11-30 12:33:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2024-11-30-12-33-kokinode-problem/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2024-11-30 12:57:31",
+        "affected": ["Kokigraf (Supervision orientée performance)", "Kokiperf (Surveillance site web)", "Kokiris documentation"],
+        "filename": "2024-11-30-12-33-kokinode-problem.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "kokitools-and-kokigraf-problem",
+        "createdAt": "2024-11-21 11:30:00 +0000 UTC",
+        "lastMod": "2024-11-21 11:30:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2024-11-21-11-30-kokitools-problem/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2024-11-21 12:04:59",
+        "affected": ["Kokiris documentation", "Kokigraf (Supervision orientée performance)"],
+        "filename": "2024-11-21-11-30-kokitools-problem.md"
+      }
+    
+  ]
+}
+
+
+
+
+

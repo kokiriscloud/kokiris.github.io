@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "host-koki11-problem",
+  "body": "\u003cp\u003eSuite à problème electrique côté OVH, l\u0026rsquo;hyperviseur koki11 a du être redémarré.\u003c/p\u003e\n\u003cp\u003eImpact, des serveurs clients ont subi un arrêt momentané.\u003c/p\u003e\n",
+  "createdAt": "2024-11-22 14:50:00 +0000 UTC",
+  "lastMod": "2024-11-22 14:50:00 +0000 UTC",
+  "permalink": "http://localhost:1313/issues/2024-11-22-15-04-host-koki11-problem/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "2024-11-22 15:05:00",
+  "affected": ["KCH (Hébergement Cloud Kokiris) Roubaix"],
+  "filename": "2024-11-22-15-04-host-koki11-problem.md"
+}

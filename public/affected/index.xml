@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/"/>
+    <title>Affected on Kokiris Status</title>
+    <link>http://localhost:1313/affected/</link>
+    <description>Historique des incidents</description>
+    <generator>github.com/cstate</generator>
+    <language>fr</language>
+    
+    <lastBuildDate>2026-01-16T12:36:00+00:00</lastBuildDate>
+    <updated>2026-01-16T12:36:00+00:00</updated>
+    
+    
+    
+      <atom:link href="http://localhost:1313/affected/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>KCH (Hébergement Cloud Kokiris) Roubaix</title>
+        <link>http://localhost:1313/affected/kch-h%C3%A9bergement-cloud-kokiris-roubaix/</link>
+        <pubDate>Fri, 16 Jan 2026 12:36:00 +0000</pubDate>
+        <guid>http://localhost:1313/affected/kch-h%C3%A9bergement-cloud-kokiris-roubaix/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Kokiris Global France</title>
+        <link>http://localhost:1313/affected/kokiris-global-france/</link>
+        <pubDate>Tue, 05 Aug 2025 10:31:00 +0000</pubDate>
+        <guid>http://localhost:1313/affected/kokiris-global-france/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>ALL</title>
+        <link>http://localhost:1313/affected/all/</link>
+        <pubDate>Thu, 17 Apr 2025 03:46:00 +0000</pubDate>
+        <guid>http://localhost:1313/affected/all/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Kokigraf (Supervision Orientée Performance)</title>
+        <link>http://localhost:1313/affected/kokigraf-supervision-orient%C3%A9e-performance/</link>
+        <pubDate>Mon, 17 Mar 2025 11:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/affected/kokigraf-supervision-orient%C3%A9e-performance/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Kokiris Documentation</title>
+        <link>http://localhost:1313/affected/kokiris-documentation/</link>
+        <pubDate>Mon, 17 Mar 2025 11:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/affected/kokiris-documentation/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Kokitools</title>
+        <link>http://localhost:1313/affected/kokitools/</link>
+        <pubDate>Mon, 17 Mar 2025 11:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/affected/kokitools/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Kokiperf (Surveillance Site Web)</title>
+        <link>http://localhost:1313/affected/kokiperf-surveillance-site-web/</link>
+        <pubDate>Sat, 30 Nov 2024 12:33:00 +0000</pubDate>
+        <guid>http://localhost:1313/affected/kokiperf-surveillance-site-web/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Network problem",
+  "body": "\u003cp\u003eUn incident réseau impacte l\u0026rsquo;ensemble des infrastructures OVH France.\nA network incident affects all OVH France infrastructures.\u003c/p\u003e\n\u003cp\u003ePlus d\u0026rsquo;infos : \u003ca href=\"https://network.status-ovhcloud.com/incidents/myfn82jp00k5\"\u003ehttps://network.status-ovhcloud.com/incidents/myfn82jp00k5\u003c/a\u003e\u003c/p\u003e\n",
+  "createdAt": "2025-04-17 03:46:00 +0000 UTC",
+  "lastMod": "2025-04-17 03:46:00 +0000 UTC",
+  "permalink": "http://localhost:1313/issues/2025-04-17-03-46-hosting-problem/",
+  "severity": "<no value>",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "2025-04-17 14:15:39",
+  "affected": ["ALL"],
+  "filename": "2025-04-17-03-46-Hosting-problem.md"
+}

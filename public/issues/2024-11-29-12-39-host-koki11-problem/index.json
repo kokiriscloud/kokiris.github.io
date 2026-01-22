@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "host-koki11-problem",
+  "body": "\u003cp\u003e(MàJ/Update) 30/11/2025 00h30 : Incident totalement clôs\u003c/p\u003e\n\u003cp\u003e(MàJ/Update) 29/11/2025 10h30 : Après intervention OVH, passage en rescue et copie des serveurs sur le cluster KKC1 et restauration sauvegarde en parallèle.\u003c/p\u003e\n\u003cp\u003e(MàJ/Update) 13h28 : Un ticket a été crée côté OVH et nous attendons toujours une intervention de leur part.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eL\u0026rsquo;hyperviseur koki11 est actuellement down ; nous investiguons sur les causes de la panne.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eImpact :  des serveurs clients sont actuellement down\u003c/p\u003e\n",
+  "createdAt": "2024-11-29 12:39:00 +0000 UTC",
+  "lastMod": "2024-11-29 12:39:00 +0000 UTC",
+  "permalink": "http://localhost:1313/issues/2024-11-29-12-39-host-koki11-problem/",
+  "severity": "down",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "2024-11-30 00:30:00",
+  "affected": ["KCH (Hébergement Cloud Kokiris) Roubaix"],
+  "filename": "2024-11-29-12-39-host-koki11-problem.md"
+}

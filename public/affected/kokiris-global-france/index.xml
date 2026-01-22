@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/"/>
+    <title>Kokiris Global France on Kokiris Status</title>
+    <link>http://localhost:1313/affected/kokiris-global-france/</link>
+    <description>Historique des incidents</description>
+    <generator>github.com/cstate</generator>
+    <language>fr</language>
+    
+    <lastBuildDate>2025-08-05T10:31:00+00:00</lastBuildDate>
+    <updated>2025-08-05T10:31:00+00:00</updated>
+    
+    
+    
+      <atom:link href="http://localhost:1313/affected/kokiris-global-france/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Résolu] Incident Nasha sur RBX8</title>
+        <link>http://localhost:1313/issues/2025-08-05-11-08-nasha-problem/</link>
+        <pubDate>Tue, 05 Aug 2025 10:31:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2025-08-05-11-08-nasha-problem/</guid>
+        <category></category>
+        <description>Les Nasha présents sur RBX8 ont été injoignable pendant une vingtaine de minutes, de 10h31 à 10h50.</description>
+        <content type="html">&lt;p&gt;Les Nasha présents sur RBX8 ont été injoignable pendant une vingtaine de minutes, de 10h31 à 10h50.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

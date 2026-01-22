@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Hosting-problem",
+  "body": "\u003cp\u003eProblème matériel sur l\u0026rsquo;hyperviseur koki35-rbx8.kokiris.net.\u003c/p\u003e\n\u003cp\u003eTicket ouvert chez OVH.\u003c/p\u003e\n\u003cp\u003eCommunication OVH\u003c/p\u003e\n\u003cpre tabindex=\"0\"\u003e\u003ccode\u003eWe have determined the origin of the incident affecting our Dedicated Servers offer in the racks R832B16 and R832B17.\n\nHere are some supplementary details :\nStart time : 12/05/2025 11:26 UTC\nImpacted Service(s) : All servers in the racks R832B16 and R832B17 are temporarily unavailable.\nCustomers Impact : Customers are temporarily unable to access their servers located in the specified rack.\nRoot Cause : This incident is caused by an electrical equipment issue.\nOngoing Actions : The incident has been identified and our teams are mobilised to restore service as quickly as possible.\n\nWe will keep you updated on the progress and resolution.\nWe apologize for any inconvenience caused and appreciate your understanding.\nPosted 10 minutes ago. May 12, 2025 - 11:46 UTC\n\u003c/code\u003e\u003c/pre\u003e",
+  "createdAt": "2025-05-12 13:48:00 +0000 UTC",
+  "lastMod": "2025-05-12 13:48:00 +0000 UTC",
+  "permalink": "http://localhost:1313/issues/2025-05-12-13-48-hosting-problem/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "2025-05-12 14:05:00",
+  "affected": ["KCH (Hébergement Cloud Kokiris) Roubaix"],
+  "filename": "2025-05-12-13-48-Hosting-problem.md"
+}

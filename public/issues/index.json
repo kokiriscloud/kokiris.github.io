@@ -1,0 +1,148 @@
+{
+  "is": "issues",
+  "title": "Issues",
+  "baseURL": "http://localhost:1313/", 
+  "description": "",
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Host-problem",
+        "createdAt": "2026-01-16 12:36:00 +0000 UTC",
+        "lastMod": "2026-01-16 12:36:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2026-01-20-11-55-host-problem/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "<no value>",
+        "affected": ["KCH (Hébergement Cloud Kokiris) Roubaix"],
+        "filename": "2026-01-20-11-55-Host-problem.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Incident Nasha sur RBX8",
+        "createdAt": "2025-08-05 10:31:00 +0000 UTC",
+        "lastMod": "2025-08-05 10:31:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2025-08-05-11-08-nasha-problem/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "<no value>",
+        "affected": ["Kokiris Global France"],
+        "filename": "2025-08-05-11-08-Nasha-problem.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Hosting-problem",
+        "createdAt": "2025-05-12 13:48:00 +0000 UTC",
+        "lastMod": "2025-05-12 13:48:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2025-05-12-13-48-hosting-problem/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2025-05-12 14:05:00",
+        "affected": ["KCH (Hébergement Cloud Kokiris) Roubaix"],
+        "filename": "2025-05-12-13-48-Hosting-problem.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Network problem",
+        "createdAt": "2025-04-17 03:46:00 +0000 UTC",
+        "lastMod": "2025-04-17 03:46:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2025-04-17-03-46-hosting-problem/",
+        "severity": "<no value>",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2025-04-17 14:15:39",
+        "affected": ["ALL"],
+        "filename": "2025-04-17-03-46-Hosting-problem.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "kokitools-and-kokigraf-problem",
+        "createdAt": "2025-03-17 11:00:00 +0000 UTC",
+        "lastMod": "2025-03-17 11:00:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2025-03-17-11-00-kokitools-problem/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2025-03-17 11:31:05",
+        "affected": ["Kokiris documentation", "Kokigraf (Supervision orientée performance)", "Kokitools"],
+        "filename": "2025-03-17-11-00-kokitools-problem.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "kokinode-problem",
+        "createdAt": "2024-11-30 12:33:00 +0000 UTC",
+        "lastMod": "2024-11-30 12:33:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2024-11-30-12-33-kokinode-problem/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2024-11-30 12:57:31",
+        "affected": ["Kokigraf (Supervision orientée performance)", "Kokiperf (Surveillance site web)", "Kokiris documentation"],
+        "filename": "2024-11-30-12-33-kokinode-problem.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "host-koki11-problem",
+        "createdAt": "2024-11-29 12:39:00 +0000 UTC",
+        "lastMod": "2024-11-29 12:39:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2024-11-29-12-39-host-koki11-problem/",
+        "severity": "down",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2024-11-30 00:30:00",
+        "affected": ["KCH (Hébergement Cloud Kokiris) Roubaix"],
+        "filename": "2024-11-29-12-39-host-koki11-problem.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "host-koki11-problem",
+        "createdAt": "2024-11-22 16:48:00 +0000 UTC",
+        "lastMod": "2024-11-22 16:48:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2024-11-22-16-51-host-koki11-problem/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2024-11-22 21:20:00",
+        "affected": ["KCH (Hébergement Cloud Kokiris) Roubaix"],
+        "filename": "2024-11-22-16-51-host-koki11-problem.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "host-koki11-problem",
+        "createdAt": "2024-11-22 14:50:00 +0000 UTC",
+        "lastMod": "2024-11-22 14:50:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2024-11-22-15-04-host-koki11-problem/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2024-11-22 15:05:00",
+        "affected": ["KCH (Hébergement Cloud Kokiris) Roubaix"],
+        "filename": "2024-11-22-15-04-host-koki11-problem.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "kokitools-and-kokigraf-problem",
+        "createdAt": "2024-11-21 11:30:00 +0000 UTC",
+        "lastMod": "2024-11-21 11:30:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2024-11-21-11-30-kokitools-problem/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2024-11-21 12:04:59",
+        "affected": ["Kokiris documentation", "Kokigraf (Supervision orientée performance)"],
+        "filename": "2024-11-21-11-30-kokitools-problem.md"
+      }
+    
+  ]
+}

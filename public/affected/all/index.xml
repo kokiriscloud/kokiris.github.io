@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/"/>
+    <title>ALL on Kokiris Status</title>
+    <link>http://localhost:1313/affected/all/</link>
+    <description>Historique des incidents</description>
+    <generator>github.com/cstate</generator>
+    <language>fr</language>
+    
+    <lastBuildDate>2025-04-17T03:46:00+00:00</lastBuildDate>
+    <updated>2025-04-17T03:46:00+00:00</updated>
+    
+    
+    
+      <atom:link href="http://localhost:1313/affected/all/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Résolu] Network problem</title>
+        <link>http://localhost:1313/issues/2025-04-17-03-46-hosting-problem/</link>
+        <pubDate>Thu, 17 Apr 2025 03:46:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2025-04-17-03-46-hosting-problem/</guid>
+        <category>2025-04-17 14:15:39</category>
+        <description>Un incident réseau impacte l&amp;rsquo;ensemble des infrastructures OVH France. A network incident affects all OVH France infrastructures.
+Plus d&amp;rsquo;infos : https://network.status-ovhcloud.com/incidents/myfn82jp00k5</description>
+        <content type="html">&lt;p&gt;Un incident réseau impacte l&amp;rsquo;ensemble des infrastructures OVH France.
+A network incident affects all OVH France infrastructures.&lt;/p&gt;
+&lt;p&gt;Plus d&amp;rsquo;infos : &lt;a href=&#34;https://network.status-ovhcloud.com/incidents/myfn82jp00k5&#34;&gt;https://network.status-ovhcloud.com/incidents/myfn82jp00k5&lt;/a&gt;&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "host-koki11-problem",
+  "body": "\u003cp\u003e(MàJ/Update) 21h25 :\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eOVH a fini son intervention technique.\u003c/li\u003e\n\u003cli\u003eL\u0026rsquo;hyperviseur a redémarré.\u003c/li\u003e\n\u003cli\u003ePar précaution, les serveurs clients sont migrés sur d\u0026rsquo;autres hyperviseurs.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e(MàJ/Update) 18h21 :\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eLes techniciens OVH sont toujours en intervention, nous vous préviendrons dès que OVH nous communiquera de nouveaux éléments.\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003cul\u003e\n\u003cli\u003eSuite à problème éléctrique côté OVH, l\u0026rsquo;hyperviseur \u003cstrong\u003ekoki11\u003c/strong\u003e a du être redémarré.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eImpact :  des serveurs clients ont subi une courte interruption.\u003c/p\u003e\n",
+  "createdAt": "2024-11-22 16:48:00 +0000 UTC",
+  "lastMod": "2024-11-22 16:48:00 +0000 UTC",
+  "permalink": "http://localhost:1313/issues/2024-11-22-16-51-host-koki11-problem/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "2024-11-22 21:20:00",
+  "affected": ["KCH (Hébergement Cloud Kokiris) Roubaix"],
+  "filename": "2024-11-22-16-51-host-koki11-problem.md"
+}

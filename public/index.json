@@ -1,0 +1,172 @@
+{
+  "is": "index",
+  "cStateVersion": "5.6.1",
+  "apiVersion": "2.0",
+  "title": "Kokiris Status",
+  "languageCodeHTML": "fr",
+  "languageCode": "fr",
+  "baseURL": "http://localhost:1313/", 
+  "description": "Nous surveillons en continu l'état de nos services et s'il y a des interruptions, une note sera publiée ici..",
+  "summaryStatus": "ok", 
+  "categories": [
+      {
+        "name": "Kokiris Global France",
+        "description": "Infra globale",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Kokiris Roubaix France",
+        "description": "Hébergement Kokiris sur Roubaix",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Kokiris Gravelines France",
+        "description": "Hébergement Kokiris sur Gravelines",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Kokiris Strasbourg France",
+        "description": "Hébergement Kokiris sur Strasbourg",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Kokiris Limburg Allemagne",
+        "description": "Hébergement Kokiris sur Limburg",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Uncategorized",
+        "hideTitle": true,
+        "closedByDefault": false
+      }
+    
+  ],
+  
+  
+  "pinnedIssues": [],
+  "systems": [
+    
+      {
+        "name": "KCH (Hébergement Cloud Kokiris) Roubaix",
+        "description": "Hébergement Cloud Kokiris",
+        "category": "Kokiris Roubaix France", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "KCH (Hébergement Cloud Kokiris) Gravelines",
+        "description": "Hébergement Cloud Kokiris",
+        "category": "Kokiris Gravelines France", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "KCB S3 Strasbourg",
+        "category": "Kokiris Strasbourg France", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "KCL (infogérance)",
+        "description": "Kokiris infogérance",
+        "category": "Kokiris Global France", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "KPC (Cloud privé Kokiris)",
+        "description": "Kokiris Private Cloud",
+        "category": "Kokiris Global France", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "KPM (Infogérance Plesk Kokiris)",
+        "description": "Kokiris Plesk Managment",
+        "category": "Kokiris Global France", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "KCC (Orchestration de conteneurs Kokiris)",
+        "description": "Kokiris Cloud Container",
+        "category": "Kokiris Global France", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Kokiris documentation",
+        "description": "Kokiris documentation",
+        "category": "Kokiris Global France", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Kokigraf (Supervision orientée performance)",
+        "description": "Customer performance graf",
+        "category": "Kokiris Global France", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Kokiperf (Surveillance site web)",
+        "description": "Kokiris web status",
+        "category": "Kokiris Global France", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      }
+  ],
+  
+  
+  "buildDate": "2026-01-22",
+  "buildTime": "16:54",
+  "buildTimezone": "CET",
+  "colorBrand": "#0a0c0f",
+  "colorOk": "#008000",
+  "colorDisrupted": "#cc4400",
+  "colorDown": "#e60000",
+  "colorNotice": "#24478f",
+  "alwaysKeepBrandColor": "true",
+  "logo": "http://localhost:1313/logo.png",
+  "googleAnalytics": "UA-00000000-1"
+}

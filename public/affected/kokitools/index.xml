@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/"/>
+    <title>Kokitools on Kokiris Status</title>
+    <link>http://localhost:1313/affected/kokitools/</link>
+    <description>Historique des incidents</description>
+    <generator>github.com/cstate</generator>
+    <language>fr</language>
+    
+    <lastBuildDate>2025-03-17T11:00:00+00:00</lastBuildDate>
+    <updated>2025-03-17T11:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="http://localhost:1313/affected/kokitools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Résolu] kokitools-and-kokigraf-problem</title>
+        <link>http://localhost:1313/issues/2025-03-17-11-00-kokitools-problem/</link>
+        <pubDate>Mon, 17 Mar 2025 11:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2025-03-17-11-00-kokitools-problem/</guid>
+        <category>2025-03-17 11:31:05</category>
+        <description>L&amp;rsquo;accès aux graf, kuma et aux kokitools tel que (pw|up|paste).kokiris.cloud est fortement dégradé.
+Une analyse est en cours.</description>
+        <content type="html">&lt;p&gt;L&amp;rsquo;accès aux graf, kuma et aux kokitools tel que (pw|up|paste).kokiris.cloud est fortement dégradé.&lt;/p&gt;
+&lt;p&gt;Une analyse est en cours.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

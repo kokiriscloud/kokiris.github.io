@@ -1,0 +1,27 @@
+{
+  "is": "system",
+  "title": "Kokiperf (Surveillance Site Web)",
+  "permalink": "http://localhost:1313/affected/kokiperf-surveillance-site-web/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "kokinode-problem",
+        "createdAt": "2024-11-30 12:33:00 +0000 UTC",
+        "lastMod": "2024-11-30 12:33:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2024-11-30-12-33-kokinode-problem/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2024-11-30 12:57:31",
+        "affected": ["Kokigraf (Supervision orientée performance)", "Kokiperf (Surveillance site web)", "Kokiris documentation"],
+        "filename": "2024-11-30-12-33-kokinode-problem.md"
+      }
+    
+  ]
+}
+
+
+
+
+

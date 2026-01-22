@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "kokitools-and-kokigraf-problem",
+  "body": "\u003cp\u003eL\u0026rsquo;accès aux graf, kuma et aux kokitools tel que (pw|up|paste).kokiris.cloud est fortement dégradé.\u003c/p\u003e\n\u003cp\u003eUne analyse est en cours.\u003c/p\u003e\n",
+  "createdAt": "2024-11-21 11:30:00 +0000 UTC",
+  "lastMod": "2024-11-21 11:30:00 +0000 UTC",
+  "permalink": "http://localhost:1313/issues/2024-11-21-11-30-kokitools-problem/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "2024-11-21 12:04:59",
+  "affected": ["Kokiris documentation", "Kokigraf (Supervision orientée performance)"],
+  "filename": "2024-11-21-11-30-kokitools-problem.md"
+}

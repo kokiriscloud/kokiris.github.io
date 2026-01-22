@@ -1,0 +1,27 @@
+{
+  "is": "system",
+  "title": "Kokiris Global France",
+  "permalink": "http://localhost:1313/affected/kokiris-global-france/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Incident Nasha sur RBX8",
+        "createdAt": "2025-08-05 10:31:00 +0000 UTC",
+        "lastMod": "2025-08-05 10:31:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2025-08-05-11-08-nasha-problem/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "<no value>",
+        "affected": ["Kokiris Global France"],
+        "filename": "2025-08-05-11-08-Nasha-problem.md"
+      }
+    
+  ]
+}
+
+
+
+
+

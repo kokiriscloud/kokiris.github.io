@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Incident Nasha sur RBX8",
+  "body": "\u003cp\u003eLes Nasha présents sur RBX8 ont été injoignable pendant une vingtaine de minutes, de 10h31 à 10h50.\u003c/p\u003e\n",
+  "createdAt": "2025-08-05 10:31:00 +0000 UTC",
+  "lastMod": "2025-08-05 10:31:00 +0000 UTC",
+  "permalink": "http://localhost:1313/issues/2025-08-05-11-08-nasha-problem/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "<no value>",
+  "affected": ["Kokiris Global France"],
+  "filename": "2025-08-05-11-08-Nasha-problem.md"
+}

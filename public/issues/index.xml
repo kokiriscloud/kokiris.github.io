@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/"/>
+    <title>Issues on Kokiris Status</title>
+    <link>http://localhost:1313/issues/</link>
+    <description>Historique des incidents</description>
+    <generator>github.com/cstate</generator>
+    <language>fr</language>
+    
+    <lastBuildDate>2026-01-16T12:36:00+00:00</lastBuildDate>
+    <updated>2026-01-16T12:36:00+00:00</updated>
+    
+    
+    
+      <atom:link href="http://localhost:1313/issues/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Résolu] Host-problem</title>
+        <link>http://localhost:1313/issues/2026-01-20-11-55-host-problem/</link>
+        <pubDate>Fri, 16 Jan 2026 12:36:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2026-01-20-11-55-host-problem/</guid>
+        <category></category>
+        <description>https://bare-metal-servers.status-ovhcloud.com/incidents/d19tndtylr0c</description>
+        <content type="html">&lt;p&gt;&lt;a href=&#34;https://bare-metal-servers.status-ovhcloud.com/incidents/d19tndtylr0c&#34;&gt;https://bare-metal-servers.status-ovhcloud.com/incidents/d19tndtylr0c&lt;/a&gt;&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Résolu] Incident Nasha sur RBX8</title>
+        <link>http://localhost:1313/issues/2025-08-05-11-08-nasha-problem/</link>
+        <pubDate>Tue, 05 Aug 2025 10:31:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2025-08-05-11-08-nasha-problem/</guid>
+        <category></category>
+        <description>Les Nasha présents sur RBX8 ont été injoignable pendant une vingtaine de minutes, de 10h31 à 10h50.</description>
+        <content type="html">&lt;p&gt;Les Nasha présents sur RBX8 ont été injoignable pendant une vingtaine de minutes, de 10h31 à 10h50.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Résolu] Hosting-problem</title>
+        <link>http://localhost:1313/issues/2025-05-12-13-48-hosting-problem/</link>
+        <pubDate>Mon, 12 May 2025 13:48:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2025-05-12-13-48-hosting-problem/</guid>
+        <category>2025-05-12 14:05:00</category>
+        <description>Problème matériel sur l&amp;rsquo;hyperviseur koki35-rbx8.kokiris.net.
+Ticket ouvert chez OVH.
+Communication OVH
+We have determined the origin of the incident affecting our Dedicated Servers offer in the racks R832B16 and R832B17. Here are some supplementary details : Start time : 12/05/2025 11:26 UTC Impacted Service(s) : All servers in the racks R832B16 and R832B17 are temporarily unavailable. Customers Impact : Customers are temporarily unable to access their servers located in the specified rack.</description>
+        <content type="html">&lt;p&gt;Problème matériel sur l&amp;rsquo;hyperviseur koki35-rbx8.kokiris.net.&lt;/p&gt;
+&lt;p&gt;Ticket ouvert chez OVH.&lt;/p&gt;
+&lt;p&gt;Communication OVH&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;We have determined the origin of the incident affecting our Dedicated Servers offer in the racks R832B16 and R832B17.
+
+Here are some supplementary details :
+Start time : 12/05/2025 11:26 UTC
+Impacted Service(s) : All servers in the racks R832B16 and R832B17 are temporarily unavailable.
+Customers Impact : Customers are temporarily unable to access their servers located in the specified rack.
+Root Cause : This incident is caused by an electrical equipment issue.
+Ongoing Actions : The incident has been identified and our teams are mobilised to restore service as quickly as possible.
+
+We will keep you updated on the progress and resolution.
+We apologize for any inconvenience caused and appreciate your understanding.
+Posted 10 minutes ago. May 12, 2025 - 11:46 UTC
+&lt;/code&gt;&lt;/pre&gt;</content>
+      </item>
+    
+      <item>
+        <title>[Résolu] Network problem</title>
+        <link>http://localhost:1313/issues/2025-04-17-03-46-hosting-problem/</link>
+        <pubDate>Thu, 17 Apr 2025 03:46:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2025-04-17-03-46-hosting-problem/</guid>
+        <category>2025-04-17 14:15:39</category>
+        <description>Un incident réseau impacte l&amp;rsquo;ensemble des infrastructures OVH France. A network incident affects all OVH France infrastructures.
+Plus d&amp;rsquo;infos : https://network.status-ovhcloud.com/incidents/myfn82jp00k5</description>
+        <content type="html">&lt;p&gt;Un incident réseau impacte l&amp;rsquo;ensemble des infrastructures OVH France.
+A network incident affects all OVH France infrastructures.&lt;/p&gt;
+&lt;p&gt;Plus d&amp;rsquo;infos : &lt;a href=&#34;https://network.status-ovhcloud.com/incidents/myfn82jp00k5&#34;&gt;https://network.status-ovhcloud.com/incidents/myfn82jp00k5&lt;/a&gt;&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Résolu] kokitools-and-kokigraf-problem</title>
+        <link>http://localhost:1313/issues/2025-03-17-11-00-kokitools-problem/</link>
+        <pubDate>Mon, 17 Mar 2025 11:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2025-03-17-11-00-kokitools-problem/</guid>
+        <category>2025-03-17 11:31:05</category>
+        <description>L&amp;rsquo;accès aux graf, kuma et aux kokitools tel que (pw|up|paste).kokiris.cloud est fortement dégradé.
+Une analyse est en cours.</description>
+        <content type="html">&lt;p&gt;L&amp;rsquo;accès aux graf, kuma et aux kokitools tel que (pw|up|paste).kokiris.cloud est fortement dégradé.&lt;/p&gt;
+&lt;p&gt;Une analyse est en cours.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Résolu] kokinode-problem</title>
+        <link>http://localhost:1313/issues/2024-11-30-12-33-kokinode-problem/</link>
+        <pubDate>Sat, 30 Nov 2024 12:33:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2024-11-30-12-33-kokinode-problem/</guid>
+        <category>2024-11-30 12:57:31</category>
+        <description>Les kokigraf et les kokitools sont momentanement impactés par un incident touchant le cluster d&amp;rsquo;orchestrateur de l&amp;rsquo;infra Kokiris.
+L&amp;rsquo;équipe technique travaille à rétablir la situation.
+Impact :
+les graph de performances les outils de transfert/échanges les sondes orientées sites clients </description>
+        <content type="html">&lt;p&gt;Les kokigraf et les kokitools sont momentanement impactés par un incident touchant le cluster d&amp;rsquo;orchestrateur de l&amp;rsquo;infra Kokiris.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;équipe technique travaille à rétablir la situation.&lt;/p&gt;
+&lt;p&gt;Impact :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;les graph de performances&lt;/li&gt;
+&lt;li&gt;les outils de transfert/échanges&lt;/li&gt;
+&lt;li&gt;les sondes orientées sites clients&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Résolu] host-koki11-problem</title>
+        <link>http://localhost:1313/issues/2024-11-29-12-39-host-koki11-problem/</link>
+        <pubDate>Fri, 29 Nov 2024 12:39:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2024-11-29-12-39-host-koki11-problem/</guid>
+        <category>2024-11-30 00:30:00</category>
+        <description>(MàJ/Update) 30/11/2025 00h30 : Incident totalement clôs
+(MàJ/Update) 29/11/2025 10h30 : Après intervention OVH, passage en rescue et copie des serveurs sur le cluster KKC1 et restauration sauvegarde en parallèle.
+(MàJ/Update) 13h28 : Un ticket a été crée côté OVH et nous attendons toujours une intervention de leur part.
+L&amp;rsquo;hyperviseur koki11 est actuellement down ; nous investiguons sur les causes de la panne. Impact : des serveurs clients sont actuellement down</description>
+        <content type="html">&lt;p&gt;(MàJ/Update) 30/11/2025 00h30 : Incident totalement clôs&lt;/p&gt;
+&lt;p&gt;(MàJ/Update) 29/11/2025 10h30 : Après intervention OVH, passage en rescue et copie des serveurs sur le cluster KKC1 et restauration sauvegarde en parallèle.&lt;/p&gt;
+&lt;p&gt;(MàJ/Update) 13h28 : Un ticket a été crée côté OVH et nous attendons toujours une intervention de leur part.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;L&amp;rsquo;hyperviseur koki11 est actuellement down ; nous investiguons sur les causes de la panne.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Impact :  des serveurs clients sont actuellement down&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Résolu] host-koki11-problem</title>
+        <link>http://localhost:1313/issues/2024-11-22-16-51-host-koki11-problem/</link>
+        <pubDate>Fri, 22 Nov 2024 16:48:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2024-11-22-16-51-host-koki11-problem/</guid>
+        <category>2024-11-22 21:20:00</category>
+        <description>(MàJ/Update) 21h25 :
+OVH a fini son intervention technique. L&amp;rsquo;hyperviseur a redémarré. Par précaution, les serveurs clients sont migrés sur d&amp;rsquo;autres hyperviseurs. (MàJ/Update) 18h21 :
+Les techniciens OVH sont toujours en intervention, nous vous préviendrons dès que OVH nous communiquera de nouveaux éléments. Suite à problème éléctrique côté OVH, l&amp;rsquo;hyperviseur koki11 a du être redémarré. Impact : des serveurs clients ont subi une courte interruption.</description>
+        <content type="html">&lt;p&gt;(MàJ/Update) 21h25 :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OVH a fini son intervention technique.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;hyperviseur a redémarré.&lt;/li&gt;
+&lt;li&gt;Par précaution, les serveurs clients sont migrés sur d&amp;rsquo;autres hyperviseurs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(MàJ/Update) 18h21 :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les techniciens OVH sont toujours en intervention, nous vous préviendrons dès que OVH nous communiquera de nouveaux éléments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Suite à problème éléctrique côté OVH, l&amp;rsquo;hyperviseur &lt;strong&gt;koki11&lt;/strong&gt; a du être redémarré.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Impact :  des serveurs clients ont subi une courte interruption.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Résolu] host-koki11-problem</title>
+        <link>http://localhost:1313/issues/2024-11-22-15-04-host-koki11-problem/</link>
+        <pubDate>Fri, 22 Nov 2024 14:50:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2024-11-22-15-04-host-koki11-problem/</guid>
+        <category>2024-11-22 15:05:00</category>
+        <description>Suite à problème electrique côté OVH, l&amp;rsquo;hyperviseur koki11 a du être redémarré.
+Impact, des serveurs clients ont subi un arrêt momentané.</description>
+        <content type="html">&lt;p&gt;Suite à problème electrique côté OVH, l&amp;rsquo;hyperviseur koki11 a du être redémarré.&lt;/p&gt;
+&lt;p&gt;Impact, des serveurs clients ont subi un arrêt momentané.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Résolu] kokitools-and-kokigraf-problem</title>
+        <link>http://localhost:1313/issues/2024-11-21-11-30-kokitools-problem/</link>
+        <pubDate>Thu, 21 Nov 2024 11:30:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2024-11-21-11-30-kokitools-problem/</guid>
+        <category>2024-11-21 12:04:59</category>
+        <description>L&amp;rsquo;accès aux graf, kuma et aux kokitools tel que (pw|up|paste).kokiris.cloud est fortement dégradé.
+Une analyse est en cours.</description>
+        <content type="html">&lt;p&gt;L&amp;rsquo;accès aux graf, kuma et aux kokitools tel que (pw|up|paste).kokiris.cloud est fortement dégradé.&lt;/p&gt;
+&lt;p&gt;Une analyse est en cours.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>
