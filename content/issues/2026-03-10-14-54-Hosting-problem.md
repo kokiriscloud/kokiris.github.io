@@ -10,4 +10,4 @@ affected:
   - KCH (Hébergement Cloud Kokiris) Gravelines 
 ---
 
-Problème sur un hyperviseur situé sur à Gravelines. Des investigations sont en cours.
+Problème sur un hyperviseur situé sur Gravelines. Des investigations sont en cours.
