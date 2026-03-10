@@ -4,7 +4,8 @@ date: 2026-03-10 14:54:00
 informational: true
 pin: false
 section: issue
-resolved: false
+resolved: true
+resolvedwhen: 2026-03-10 15:03:15
 severity: down
 affected:
   - KCH (Hébergement Cloud Kokiris) Gravelines 
